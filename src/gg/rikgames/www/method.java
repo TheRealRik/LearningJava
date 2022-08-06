@@ -1,18 +1,19 @@
 package gg.rikgames.www;
 
+class Human{
+    String name;
+    int age;
+
+    void talk(){
+        System.out.println("My name is " + name + " and I am " + age + " years old.");
+    }
+    int calculate(int one, int two, int three){
+        return one*two*three;
+    }
+}
+
 public class method {
     public static void main(String[] args) {
-        class Human{
-            String name;
-            int age;
-
-            void talk(){
-                System.out.println("My name is " + name + " and I am " + age + " years old.");
-            }
-            int calculate(int one, int two, int three){
-                return one*two*three;
-            }
-        }
         Human human1 = new Human();
         Human human2 = new Human();
 
