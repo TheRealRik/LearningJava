@@ -16,7 +16,8 @@ public class palPrime {
             }
         }
         while(n > 0) {
-            rev = n % 10; // extract last digit of the number
+            // extract last digit of the number
+            rev = n % 10;
             s = s * 10 + rev; // store the digit last digit
             n = n / 10; // extract all digit except the last
         }

@@ -23,7 +23,7 @@ public class technumber {
             double division = 0.5;
             division = (division * length);
 
-            //Dividing the user given number into two parts and putting them into two different String
+            //Dividing the user given number into two parts and putting them into two different Strings
             string1 = mainString.substring(0, (int) division);
             string2 = mainString.substring((int) division, length);
 
