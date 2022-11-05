@@ -12,7 +12,7 @@ public class duckNumber {
         char check = userInput.charAt(0);
 
         if (check == '0') {
-            //DUCK number is a number which does not have a 0 (zero) at the beginning but within it, and also if there is no 0 (zeros) in a number that is not a DUCK number
+            //DUCK number is a number which does not have a 0 (zero) at the beginning but within it, and if there is no 0 (zeros) in a number that is not a DUCK number
             System.out.println(userInput + " Is Not A DUCK Number");
         } else {
             //Init a variable to count the number of zeros within the number

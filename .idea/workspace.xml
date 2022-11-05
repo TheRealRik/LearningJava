@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="088ee762-4a16-42d1-8237-25a8b1ea674b" name="Changes" comment="Upload IV">
-      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/duckNumber.java" afterDir="false" />
+    <list default="true" id="088ee762-4a16-42d1-8237-25a8b1ea674b" name="Changes" comment="Upload V">
+      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/happyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/mathematicalLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/notepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/paraConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/patternA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/patternDrawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/typeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/uniqueNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/userDefinedType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/wrapperclass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/rikgames/www/duckNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gg/rikgames/www/duckNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/rikgames/www/technumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gg/rikgames/www/techNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +65,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -115,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662209125890</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Upload V">
+      <created>1662791290394</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662791290394</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,7 +152,8 @@
     <MESSAGE value="Upload II" />
     <MESSAGE value="Upload III" />
     <MESSAGE value="Upload IV" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload IV" />
+    <MESSAGE value="Upload V" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload V" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

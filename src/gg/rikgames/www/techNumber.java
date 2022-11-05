@@ -2,7 +2,7 @@ package gg.rikgames.www;
 
 import java.util.Scanner;
 
-public class technumber {
+public class techNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String mainString, string1, string2;
