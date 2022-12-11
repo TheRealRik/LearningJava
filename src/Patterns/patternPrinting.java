@@ -1,4 +1,4 @@
-package gg.rikgames.www;
+package Patterns;
 
 import java.util.Scanner;
 
