@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="088ee762-4a16-42d1-8237-25a8b1ea674b" name="Changes" comment="Pattern Printing">
-      <change afterPath="$PROJECT_DIR$/src/Patterns/PatternQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/PatternX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/patternJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gg/rikgames/www/Autoboxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gg/rikgames/www/patternPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/patternPrinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJ/Test/src/com/realrik/breakstatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntelliJ/Test/src/com/realrik/breakstatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factor.java" beforeDir="false" afterPath="$PROJECT_DIR$/factor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +27,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -55,10 +60,11 @@
     "Project.color": "600f31",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -154,7 +160,8 @@
     <MESSAGE value="Upload IV" />
     <MESSAGE value="Upload V" />
     <MESSAGE value="Pattern Printing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern Printing" />
+    <MESSAGE value="Upload latest code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload latest code" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

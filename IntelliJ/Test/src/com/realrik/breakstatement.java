@@ -1,4 +1,4 @@
-package com.realrik;
+package IntelliJ.Test.src.com.realrik;
 
 public class breakstatement {
     public static void main(String[] args) {

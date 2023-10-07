@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class factor {
     public static void main(String[] args) {
         int x;
-        System.out.println("Enter a number: ");
+        System.out.println("Enter a correct number: ");
         Scanner rik = new Scanner(System.in);
         x = rik.nextInt();
         rik.close();
